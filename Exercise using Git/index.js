@@ -1,0 +1,8 @@
+//LATIHAN GIT ALDIO KAMINANG
+
+// HARI PERTAMA
+console.log("Hari pertama");
+
+// HARI KEDUA
+console.log("Hari kedua");
+console.log("Hari ketiga");
