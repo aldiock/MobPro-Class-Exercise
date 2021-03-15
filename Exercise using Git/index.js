@@ -11,4 +11,4 @@ console.log("Hari ketiga");
 console.log("Hari keempat");
 
 //Merge conflict
-console.log("Baris baru");
+console.log("Baris baru dari VSCODE");
