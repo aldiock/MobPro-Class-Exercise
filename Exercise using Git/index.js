@@ -9,3 +9,6 @@ console.log("Hari ketiga");
 
 //HARI KETIGA
 console.log("Hari keempat");
+
+//Merge conflict
+console.log("Baris baru");
